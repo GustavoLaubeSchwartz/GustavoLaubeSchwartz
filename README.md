@@ -6,9 +6,9 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Print("Hello, world!") <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Gustavo Schwartz
  👩🏻‍💻 Sou um desenvolvedor fullstack, criativo e apaixonado por novidades e tecnologias.<br>
- ⚡ Cursando SI no IFES Serra<br>
- ⚡ Formado no curso técnico de informática no IFES Serra
- ⚡ Formado no curso técnico de manutenção e suporte em informática no IFES Serra
+ ⚡ Cursando SI no <span style="color:green">IFES Serra</span> <br><br>
+ ⚡ Formado no curso técnico de informática no <span style="color:green">IFES Serra</span> <br>
+ ⚡ Formado no curso técnico de manutenção e suporte em informática no <span style="color:green">IFES Serra</span> <br>
 </div>
 
 <div align="center">
@@ -44,9 +44,13 @@
 </div>
 
 <picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://gustavolaubeschwartz.github.io/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://gustavolaubeschwartz.github.io/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://gustavolaubeschwartz.github.io/snk/output/github-contribution-grid-snake.svg">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoLaubeSchwartz/GustavoLaubeSchwartz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoLaubeSchwartz/GustavoLaubeSchwartz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoLaubeSchwartz/GustavoLaubeSchwartz/output/github-contribution-grid-snake.svg">
+</picture>
+</picture>
+
 
 </picture>
 
