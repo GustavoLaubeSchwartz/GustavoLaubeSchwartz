@@ -6,9 +6,9 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Print("Hello, world!") <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Gustavo Schwartz
  👩🏻‍💻 Sou um desenvolvedor fullstack, criativo e apaixonado por novidades e tecnologias.<br>
- ⚡ Cursando SI no <span style="color:green">IFES Serra</span> <br><br>
- ⚡ Formado no curso técnico de informática no <span style="color:green">IFES Serra</span> <br>
- ⚡ Formado no curso técnico de manutenção e suporte em informática no <span style="color:green">IFES Serra</span> <br>
+ ⚡ Cursando SI no <span style="color:green">IFES Serra</span> <br>
+ ⚡ Formado no curso técnico de informática no IFES Serra<br>
+ ⚡ Formado no curso técnico de manutenção e suporte em informática no IFES Serra
 </div>
 
 <div align="center">
