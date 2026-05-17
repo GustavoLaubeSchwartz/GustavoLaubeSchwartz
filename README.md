@@ -28,7 +28,7 @@
 <!-- Streak Stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=GustavoLaubeSchwartz&theme=tokyonight&border_radius=8&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GustavoLaubeSchwartz&theme=neon-palenight&border_radius=4.9&locale=pt_BR&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
   </a>
 </div>
 
@@ -41,7 +41,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> GitHub Analytics
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GustavoLaubeSchwartz&theme=neon-palenight&border_radius=4.9&locale=pt_BR&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLaubeSchwartz&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&layout=compact&langs_count=8" />
 </div>
 
@@ -68,18 +67,11 @@
 
 ### 🔤 Linguagens
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🚀 Frameworks & Bibliotecas
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
