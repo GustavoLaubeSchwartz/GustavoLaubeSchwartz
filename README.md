@@ -35,8 +35,8 @@ aprendendo: [Cloud Computing, Microservices, CI/CD]
 
 ---
 
-<!-- GitHub Stats -->
-## GitHub Stats
+<!-- GitHub Stats & Contribuições -->
+## GitHub Stats & Contribuições
 
 <table align="center">
   <tr>
@@ -49,8 +49,22 @@ aprendendo: [Cloud Computing, Microservices, CI/CD]
       <img src="https://github-profile-trophy.vercel.app/?username=GustavoLaubeSchwartz&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" />
     </td>
   </tr>
-</table>
 
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLaubeSchwartz&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoLaubeSchwartz/GustavoLaubeSchwartz/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoLaubeSchwartz/GustavoLaubeSchwartz/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoLaubeSchwartz/GustavoLaubeSchwartz/output/github-contribution-grid-snake.svg" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -89,28 +103,11 @@ aprendendo: [Cloud Computing, Microservices, CI/CD]
 
 ---
 
-<!-- Contribuições -->
-## Contribuições
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLaubeSchwartz&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoLaubeSchwartz/GustavoLaubeSchwartz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoLaubeSchwartz/GustavoLaubeSchwartz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoLaubeSchwartz/GustavoLaubeSchwartz/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
----
 
 <div align="center">
 
-> *"Procure essas coisas, como se procurasse prata ou um tesouro escondido. [...] É o SENHOR quem dá sabedoria."* — Provérbios 2:4-6
+> *se buscares a sabedoria como a prata e como a tesouros escondidos a procurares, então, entenderás o temor do SENHOR e acharás o conhecimento de Deus. Porque o SENHOR dá a sabedoria, e da sua boca vem a inteligência e o entendimento.* — Provérbios 2:4-6
 
 </div>
 
