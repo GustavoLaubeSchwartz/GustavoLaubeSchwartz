@@ -41,7 +41,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLaubeSchwartz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&ring_color=70a5fd&include_all_commits=true&count_private=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GustavoLaubeSchwartz&theme=neon-palenight&border_radius=4.9&locale=pt_BR&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLaubeSchwartz&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&layout=compact&langs_count=8" />
 </div>
 
